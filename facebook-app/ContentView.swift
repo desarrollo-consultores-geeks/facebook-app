@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+/**
+ Comments added to this class.
+ */
 struct ContentView: View {
     
     @Binding var text: String

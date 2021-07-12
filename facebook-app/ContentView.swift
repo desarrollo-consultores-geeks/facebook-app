@@ -9,6 +9,7 @@ import SwiftUI
 
 /**
  Comments added to this class.
+ More comments.
  */
 struct ContentView: View {
     
